@@ -1,0 +1,8 @@
+.BigMenu-outline {
+    display: flex;
+    justify-content: flex-start;
+    width: 75%;
+    padding-left: 10px;
+    font-size: 24px;
+    border-left: 1px white solid;
+}
