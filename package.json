@@ -1,0 +1,13 @@
+{
+  "name": "social",
+  "version": "1.0.0",
+  "description": "A Social Media WebApp in MERN",
+  "main": "server/server.js",
+  "scripts": {
+    "dev-server": "nodemon server/server.js",
+    "dev-client": "cd client/ && npm start",
+    "start": "node server/server.js"
+  },
+  "author": "Harshit Vishwakarma",
+  "license": "ISC"
+}
